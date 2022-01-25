@@ -75,7 +75,7 @@ main{
     background-size: 6.25rem;
     background-position: top 5rem left 9rem;
     flex-basis: 57%;
-    padding: 8rem 0 5rem 3
+    padding: 8rem 0 5rem 3rem;
 }
 .blockquote__div .blockquote{
     position: relative;
