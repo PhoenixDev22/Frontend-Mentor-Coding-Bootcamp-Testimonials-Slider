@@ -107,9 +107,10 @@ main{
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
-    animation: translating 4s linear infinite;
+   /* animation: translating 4s linear infinite;*/
 } 
 /* animation for the image */
+/*
 @keyframes translating {
     0%{
         -webkit-transform: translateY(0) scale(1) rotate(0);
@@ -123,7 +124,7 @@ main{
         -webkit-transform: translateY(0) scale(1.05) rotate(0);
         transform:translateY(0) scale(1) rotate(0);
     }
-}
+}*/
 .image>img {
     display: block;
     border-radius: 0.625rem;
